@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SmartAhmed
-- 👀 I’m interested in programmin
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Ahmed Mohammoud Abokor
+- 👀 I’m  programmer from Somaliland special Hargeisa
+- 🌱 I’m learning Collage Tisqaad
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
