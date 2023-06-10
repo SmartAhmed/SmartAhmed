@@ -1,13 +1,11 @@
-- 👋 Hi, I’m Ahmed Mohammoud Abokor
-- 👀 I’m  programmer from Somaliland special Hargeisa
-- 🌱 I’m learning Collage Tisqaad
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Ahmed Mohammoud Abokor </h1>
+<h3 align="center">A passionate progremmer from somaliland special Hargeisa</h3>
+
+
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
